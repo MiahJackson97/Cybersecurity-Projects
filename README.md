@@ -13,6 +13,6 @@ Screenshots: Visual evidence of completed labs and project milestones, showcasin
 About Me
 I am passionate about cybersecurity and committed to developing my skills in this field. This repository serves as a portfolio of my work and progress as I complete the Google Cybersecurity Professional Certificate program. I hope this repository provides valuable insights into my capabilities and dedication to cybersecurity.
 
-Contact
-For any questions or further information, feel free to contact me at miah.jackson97@gmail.com.
+For any questions or further information, feel free to contact me at miah.jackson97@gmail.com or here on LinkedIn: https://www.linkedin.com/in/miah-jackson/
+.
 

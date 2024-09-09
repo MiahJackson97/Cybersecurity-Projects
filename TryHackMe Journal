@@ -2,59 +2,14 @@
 TryHackMe Journal - Miah Jackson
 
 
-Instructions
-Review the sample journal entry provided below
-Scroll down to find the name of the room you have been assigned/are working on
-(Pro Tip: Turn on “Outline View” so you can navigate more easily - go to View -> Show Outline)
-Complete the required rooms on TryHackMe, compiling notes as you work through the room. This might include:
-Commonly used Code/Commands
-Definitions/Explanations of important terms and concepts
-Screenshots of useful diagrams
-Once you’ve completed the module, capture 2-4 important takeaways. 
-After you get the hang of things, delete these instructions and the sample you were provided!
 
 
-
-Instructions
-Entry 1- SAMPLE
+Entry 1- 
 Room Name: Linux Fundamentals 1
-Entry 1
-Room Name: Linux Fundamentals 1
-Entry 2
-Room Name: Linux Fundamentals 2
-Entry 3
-Room Name: Linux Fundamentals 3
-Entry 4
-Room Name: Intro to Logs
-Entry 5
-Room Name: Wireshark Basics
-Entry 6
-Room Name: Windows Fundamentals 1
-Entry 7
-Room Name: Windows Fundamentals 2
-Entry 8
-Room Name: Windows Fundamentals 3
-Entry 9
-Room Name: Windows Forensics 1
-Entry 10
-Room Name: Windows Forensics 2
-Entry 11
-Room Name: Intro to Log Analysis
-Entry 12
-Room Name: Splunk Basics
-Entry 13
-Room Name: Incident Handling with Splunk
-Entry 14
-Room Name: Splunk 2
-Entry 15
-Room Name: Splunk 3
-
-
-Entry 1- SAMPLE
-Room Name: Linux Fundamentals 1
-Date Completed: 12/20/2023
+Date Completed: 9/8/2024
 Notes During the Room:
 Similar to how you have different versions of Windows (7, 8 and 10), there are many different versions/distributions of Linux.
+
 
 
 Command
@@ -102,9 +57,17 @@ Same basic commands while working with files are ls, cd, cat and pwd
 
 Entry 1
 Room Name: Linux Fundamentals 1
-Date Completed: 
+Date Completed: 9/8/2024
 Notes During the Room:
-
+Root Directory (/)
+The highest-level directory in the Linux file system.
+All other directories are contained within the root directory.
+Common Directories:
+/home: Contains user-specific directories and files.
+/etc: Contains configuration files for the system.
+/var: Stores variable files like logs.
+/bin: Stores essential command binaries.
+/usr: Holds user applications and files.
 
 
 
@@ -114,8 +77,10 @@ Important Takeaways:
 
 Entry 2
 Room Name: Linux Fundamentals 2
-Date Completed: 
-Notes During the Room:
+Date Completed: 9/8/2024
+Notes During the Room: Command: The program or utility you want to run (e.g., ls, cd).
+Options (flags): Modifies the behavior of the command (e.g., -l for long listing).
+Arguments: The file, directory, or object you want the command to act on.
 
 
 
@@ -126,8 +91,9 @@ Important Takeaways:
 
 Entry 3
 Room Name: Linux Fundamentals 3
-Date Completed: 
-Notes During the Room:
+Date Completed: 09/08/2024
+Notes During the Room: Hidden files: Files that start with a dot (.) are hidden (e.g., .bashrc).
+To see hidden files, use ls -a.
 
 
 
